@@ -2,7 +2,7 @@
 
 ## Members: Ben Ghachem Malek & Morozova Maria
 
-
+Project implementing a game called 'WordGuesser,' where players attempt to guess a hidden word by guessing individual letters.
 
 
 ## Project setup
