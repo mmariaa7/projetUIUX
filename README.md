@@ -2,12 +2,6 @@
 
 ## Members: Ben Ghachem Malek & Morozova Maria
 
-### TP group : 
-- [x] TPA41
-- [ ] TPA42
-- [ ] TPA51
-- [ ] TPA52
-- [ ] Not selected
 
 
 
